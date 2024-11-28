@@ -3,13 +3,13 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background: url(./img/fond.jpg);
+    background: url("./img/fond.jpg");
     overflow: hidden; /* Empêche le défilement horizontal */
 }
 
 /* Header */
 header {
-    background:url(./img/fond.jpg);
+    background:url("./img/fond.jpg");
     color: white;
     padding: 10px 0;
     position: fixed;
