@@ -9,7 +9,7 @@ body {
 
 /* Header */
 header {
-    background:url(/img/fond.jpg);
+    background:url(./img/fond.jpg);
     color: white;
     padding: 10px 0;
     position: fixed;
